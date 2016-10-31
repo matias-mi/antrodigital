@@ -7,8 +7,8 @@ Dado que estamos estudiandonos en nuestras interacciones digitales, y a partir d
 
 Este espacio no permite:
 
-1. articular discusiones en torno a temas (*issues* en la jerga github)
-2. contar con un espacio de escritura colaborativa (una *wiki*)
+1. articular discusiones en torno a temas (*[issues](https://github.com/ElClubDeLaPelea/antrodigital/issues)* en la jerga github)
+2. contar con un espacio de escritura colaborativa (una *[wiki](https://github.com/ElClubDeLaPelea/antrodigital/wiki)*)
 3. permitirnos, a partir de las discusiones y escrituras organizar artículos en el repositorio que nos permitiran:
   1. publicar un libro digital de forma muy sencila
   2. publicar una página web con el contenido de los intercambios y el librito
